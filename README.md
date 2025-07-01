@@ -19,8 +19,8 @@ pip install pulp matplotlib numpy psutil
 Executando o Solver:
 1. Clone o repositorio
 ```bash
-git clone https://github.com/seu-usuario/suguru-solver.git
-cd suguru-solver
+git clone https://github.com/emilibezerra/Suguru-Puzzle.git
+cd Suguru-Puzzle
 ```
 
 2. Execute o arquivo principal:
